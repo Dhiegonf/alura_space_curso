@@ -1,0 +1,7 @@
+Para subir o setup: python manage.py runserver
+
+Para criar uma parte do "lego", um app: 
+    python manage.py startapp <nome do app>
+
+
+folder setup => projeto principal onde dos os apps estão instalados

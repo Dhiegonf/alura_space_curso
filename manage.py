@@ -3,7 +3,8 @@
 import os
 import sys
 
-
+# ativação do ambiente virtual: .\venv\Scripts\activate
+# executar o app: python manage.py runserver
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'setup.settings')
